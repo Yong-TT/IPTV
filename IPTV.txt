@@ -130,6 +130,14 @@ CCTV央视文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.
 CCTV央视文化精品,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+
+凤凰中文,https://fake-stream.livednow.com/mdvb/phx-chinese?token=666e67d952f67d62d3cf407e49892124&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
+凤凰资讯,https://fake-stream.livednow.com/mdvb/phx-news?token=d28d104a6c176af9d59823e8dccbd619&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
+凤凰香港,https://fake-stream.livednow.com/mdvb/phx-hk?token=8c49b0a6f0c36e6990d3ff661695b413&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
+
+
+
+
 东方卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
