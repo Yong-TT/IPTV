@@ -218,14 +218,3 @@ CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-
-百视TV1,https://bp-caster.bestv.com.cn/943/3/video.m3u8
-百视TV2,https://bp-caster.bestv.com.cn/926/3/video.m3u8
-百视TV3,https://bp-caster.bestv.com.cn/945/3/video.m3u8
-百视TV7,https://bp-caster.bestv.com.cn/941/3/video.m3u8
-百视TV10,https://bp-caster.bestv.com.cn/938/3/video.m3u8
-百视独播3,https://bp-caster.bestv.com.cn/940/3/video.m3u8
-百视独播4,https://bp-caster.bestv.com.cn/944/3/video.m3u8
-百视自制,https://bp-caster.bestv.com.cn/723/3/video.m3u8
-独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
