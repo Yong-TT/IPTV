@@ -109,13 +109,13 @@ CHC家庭影院,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/
 
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 
-中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+中国功夫,http://[2409:8087:1a0a:df::4015]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 
-明星剧集,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+明星剧集,http://[2409:8087:1a0a:df::402b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 
-精品记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+精品记录,http://[2409:8087:1a0a:df::400d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 
-海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+海外剧场,http://[2409:8087:1a0a:df::402e]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
 
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
