@@ -95,8 +95,6 @@
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
 ],
 "lives":[
-{"name":"ITV","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":1},
-{"name":"IPV6","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Yong-TT/IPTV/main/IPTV.txt","playerType":1},
-{"name":"XIUTAN","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"}
+{"name":"IPV6","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Yong-TT/IPTV/main/IPTV.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"}}
 ]
 }
