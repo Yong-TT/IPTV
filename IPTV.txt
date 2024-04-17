@@ -113,4 +113,10 @@ CHC家庭影院,http://183.184.219.248:8003/rtp/226.0.2.240:9820
 凤凰资讯,http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 
+凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
+
 翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
+
+明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
+
+澳门澳视,https://iptv.hiper25.com/TDM/video.m3u8
