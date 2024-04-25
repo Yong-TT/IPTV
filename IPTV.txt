@@ -74,26 +74,14 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
 凤凰中文,http://113.64.145.100:8081/hls/37/index.m3u8
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://edge2.laotv.la/live/PhxChinese/index.m3u8
 
 凤凰资讯,http://113.64.145.100:8081/hls/36/index.m3u8
 凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 
 凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 
-翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
-
-明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
-
-澳门澳视,https://iptv.hiper25.com/TDM/video.m3u8
-
 mbc,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1742867742.m3u8
 
 sbs,https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-
-kbs1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1713776397&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTM3NzYzOTd9fX1dfQ__&Signature=IPZdjCre7zCK-OwzYfsRGou2vDmrdBTlM3e8A9yzk6jPuPxhAcDeo6kpv3DTQayu7eY6UpbAAbce9H8pIbIGuja11-DywPSiXwU5nTYuHXR2aw94RleqVIZu6Jl65wwm7zsmmPxwzJvU8TEloH4eakIkijjMPEVw0gK2zieXwNpgYejsO9hlO3tE3mh5zS8vhyEKYd4M~bjk9-9lL4sJ9Qd0gRVPLn-wavM2RC2zXDsFsgt6kmN2TJXwk5IazkkfNSf0mqvuuIfuZJ5EeGLMf49WDCgbbmc5r-YsNfDUv3iEsNGAjtjrZotD1DU1~J5-YZ5aq31mCHcaf2STz3QOiw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-kbs2,https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1713771834&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTM3NzE4MzR9fX1dfQ__&Signature=UPriVRPgxiTlWRs39qbyT5iNBdk1xuQMwtgELEvuu-HkfuFLcJQcZaJo73PDJvjezZcjWPYPgLlYYEw~Lm9I8mPUkoOZ7M25A0XQZw0wuqfOQbNw9xb02aS~JyPAb5ppZ-vu9ovMAOjMPB7VqG5wmaz55OSDJVzBv9tKgCqcgZCx9uRTXIQZ4YTsxo72XBx7ZA6vwZqRxXbnjyixMXugsJDvaSgMOXo7JDb69S-I4F9CCETrUYvHGKaasGsF54azI7sK6VPKAQmKg44nWyyxP5NhdpA6PO2g59o0rEFrQCN5oyFgvU3NIrSfOifLqLNf8xUWk8v~3OOH464tzsdgGA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
