@@ -75,15 +75,15 @@ CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 
 海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
-凤凰中文,http://113.64.145.34:8081/hls/37/index.m3u8
+凤凰中文,http://113.64.145.187:8081/hls/37/index.m3u8
 凤凰中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,https://edge2.laotv.la/live/PhxChinese/index.m3u8
 
-凤凰资讯,http://113.64.145.34:8081/hls/36/index.m3u8
+凤凰资讯,http://113.64.145.187:8081/hls/36/index.m3u8
 凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 
-凤凰香港,http://113.64.145.34:8081/hls/38/index.m3u8
+凤凰香港,http://113.64.145.187:8081/hls/38/index.m3u8
 凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
 mbc,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1742867742.m3u8
