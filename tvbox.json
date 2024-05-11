@@ -100,6 +100,6 @@
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
 ],
 "lives":[
-{"name":"TV","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Yong-TT/IPTV/main/IPTV.txt","playerType":1,"epg":"https://diyp.112114.xyz/?ch={name}&date={date}"}
+{"name":"TV","type":0,"url":"https://raw.gitmirror.com/Yong-TT/IPTV/main/IPTV.txt","playerType":1,"epg":"https://diyp.112114.xyz/?ch={name}&date={date}"}
 ]
 }
