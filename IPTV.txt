@@ -84,9 +84,9 @@ CHC高清电影,http://117.44.0.239:20000/hls/67/index.m3u8
 
 
 凤凰资讯,http://113.64.145.224:8081/hls/36/index.m3u8
+凤凰资讯,http://113.64.145.121:8081/hls/36/index.m3u8
 凤凰资讯,http://113.64.145.100:8081/hls/36/index.m3u8
 凤凰资讯,http://113.64.145.132:8081/hls/36/index.m3u8
-凤凰资讯,http://113.64.145.121:8081/hls/36/index.m3u8
 凤凰资讯,http://223.109.210.49/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 
 凤凰香港,http://113.64.145.204:8081/hls/38/index.m3u8
