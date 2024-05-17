@@ -38,14 +38,11 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
-CHC家庭影院,http://117.44.0.239:20000/hls/66/index.m3u8
+CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8
 
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
-CHC动作电影,http://117.44.0.239:20000/hls/68/index.m3u8
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8
 
-CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
-CHC高清电影,http://117.44.0.239:20000/hls/67/index.m3u8
+CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?
 
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 
