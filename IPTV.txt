@@ -16,6 +16,7 @@ CCTV5,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel
 CCTV5,http://[2409:8087:1a0a:df::4015]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
+CCTV6,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel6/1300.m3u8
 CCTV6,http://[2409:8087:1a0a:df::4015]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 
