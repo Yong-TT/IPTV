@@ -82,13 +82,15 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
-凤凰中文,http://jxtv2.gdsz.eu.org:8081/hls/37/index.m3u8
+凤凰中文,http://jxtv1.gdsz.eu.org:8081/hls/37/index.m3u8
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://120.84.121.199:808/hls/29/index.m3u8
+凤凰中文,http://115.210.175.92:9999/udp/233.50.200.42:5140
 
-凤凰资讯,http://jxtv2.gdsz.eu.org:8081/hls/36/index.m3u8
+凤凰资讯,http://jxtv1.gdsz.eu.org:8081/hls/36/index.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://120.84.121.199:808/hls/28/index.m3u8
+凤凰资讯,http://122.235.165.98:4022/udp/233.50.200.192:5140
 
 CCTV2,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000297/index.m3u8?IAS
 CCTV3,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000382/index.m3u8?IAS
